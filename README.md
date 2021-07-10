@@ -2,7 +2,7 @@
 Project: Like a Rolling Data
 
 ### 1. Programming Lauguage: 
-Python + HTML + Javascript
+Php + Python + HTML + Javascript
 ### 2. Tool: 
 VSCode + xxamp + SQL
 ### 3. Brife Introduciton on the Project:

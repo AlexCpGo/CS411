@@ -2,9 +2,9 @@
 Project: Like a Rolling Data
 
 ### 1. Programming Lauguage: 
-Php + Python + HTML + Javascript
+Php + SQL + Python + HTML + Javascript
 ### 2. Tool: 
-VSCode + xxamp + SQL
+VSCode + xxamp + MySQL
 ### 3. Brife Introduciton on the Project:
 This project is presented as a website called “Songs leading friends”, which helps users search for their interested songs and singers, also recommends songs and other users as potential friends to them according to their preferences.
 ### 4. Contributors: 

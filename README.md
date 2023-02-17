@@ -7,5 +7,23 @@ Php + SQL + Python + HTML + Javascript
 VSCode + xxamp + MySQL
 ### 3. Brife Introduciton on the Project:
 This project is presented as a website called “Songs leading friends”, which helps users search for their interested songs and singers, also recommends songs and other users as potential friends to them according to their preferences.
+
+### 4. UI screenshot
+![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/2.png?raw=True)
+-------------------------------------------------------------------------------------------------------------------
+
+![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/3.png?raw=True)
+-------------------------------------------------------------------------------------------------------------------
+
+![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/1.png?raw=True)
+-------------------------------------------------------------------------------------------------------------------
+
+![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/4.png?raw=True)
+-------------------------------------------------------------------------------------------------------------------
+
+![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/5.png?raw=True)
+-------------------------------------------------------------------------------------------------------------------
+
 ### 4. Contributors: 
 Yuhang Chen, JuLi, Wenbo Ye, Mengxuan Yu.
+

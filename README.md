@@ -10,19 +10,19 @@ This project is presented as a website called “Songs leading friends”, which
 The full description of the project is recorded in the final report. Anyone who is interested in it could go to the final report and have a look at it.
 
 ### 4. UI screenshot
-![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/2.png?raw=true)
+![alt text](https://github.com/InfiniteTree/CS411/blob/main/project/2.png?raw=true)
 -------------------------------------------------------------------------------------------------------------------
 
-![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/3.png?raw=true)
+![alt text](https://github.com/InfiniteTree/CS411/blob/main/project/3.png?raw=true)
 -------------------------------------------------------------------------------------------------------------------
 
-![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/1.png?raw=true)
+![alt text](https://github.com/InfiniteTree/CS411/blob/main/project/1.png?raw=true)
 -------------------------------------------------------------------------------------------------------------------
 
-![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/4.png?raw=true)
+![alt text](https://github.com/InfiniteTree/CS411/blob/main/project/4.png?raw=true)
 -------------------------------------------------------------------------------------------------------------------
 
-![alt text] (https://github.com/InfiniteTree/CS411/blob/main/project/5.png?raw=true)
+![alt text](https://github.com/InfiniteTree/CS411/blob/main/project/5.png?raw=true)
 -------------------------------------------------------------------------------------------------------------------
 
 ### 4. Contributors: 

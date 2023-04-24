@@ -1,4 +1,4 @@
-# CS411: Data System
+# CS411: Database System
 Project: Like a Rolling Data
 
 ### 1. Programming Lauguage: 
